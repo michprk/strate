@@ -20,6 +20,10 @@ d’automne en plein écran ; puis chaque cran de molette joue un chapitre entie
 Ensuite : trois jardins en plans au trait, les prix sur un calendrier de semaines et la roue des
 saisons (aiguille sur la date du jour).
 
+**Page Saisons** (`saisons.html`) : le même jardin, vu du même endroit, au printemps (floraison
+blanche), en été (feuillage dense, sauges et échinops), en automne et en hiver (arbre nu, graminées
+givrées, neige). Un cran de molette par saison, un curseur, le clavier, ou l’image qu’on fait glisser.
+
 **Page Contact** (`contact.html`) : un plan de jardin se dessine au crayon, ses lignes deviennent
 celles du formulaire, les champs arrivent un à un ; à l’envoi, une pousse sort de terre
 (démonstration : rien n’est envoyé).
