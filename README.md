@@ -24,6 +24,11 @@ saisons (aiguille sur la date du jour).
 en été, en automne et en hiver (photos Wikimedia Commons, CC BY / CC BY-SA, créditées en pied de page).
 Un cran de molette par saison, un curseur, le clavier, ou la photo qu’on fait glisser.
 
+**Page Jardins** (`jardins.html`) : quatre vrais jardins publics de Bruxelles qui inspirent l’atelier
+(jardins Van Buuren, abbaye de la Cambre, Jardin botanique, parc Josaphat). Ils ne sont pas l’œuvre de
+Strate. Photos presque plein écran, commune au survol ; au clic, la photo s’ouvre en grand avec un
+cadre de repérage, puis la fiche du lieu.
+
 **Page Contact** (`contact.html`) : un plan de jardin se dessine au crayon, ses lignes deviennent
 celles du formulaire, les champs arrivent un à un ; à l’envoi, une pousse sort de terre
 (démonstration : rien n’est envoyé).
