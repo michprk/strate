@@ -7,11 +7,11 @@ En ligne : https://michprk.github.io/strate/
 
 ## L’idée
 
-Un jardin se comprend par sa coupe. On entre (avec ou sans le son), on arrive dans un jardin
-bruxellois en 3D vu à travers une arche, puis chaque cran de molette joue un chapitre entier :
+Un jardin se comprend par sa coupe. On entre (avec ou sans le son) sur une vraie photo de massif
+d’automne en plein écran ; puis chaque cran de molette joue un chapitre entier, en 3D :
 
-1. **Le jardin** : pelouse au vent (elle s’écarte sous la souris), amélanchier d’automne, buis,
-   pierre bleue, haie d’ifs, murs en brique.
+1. **Le jardin** : la photo s’agrandit et s’efface ; derrière, un jardin bruxellois en 3D (pelouse au vent,
+   amélanchier d’automne, buis, pierre bleue, haie d’ifs, murs en brique).
 2. **Le sol** : la caméra passe au ras de l’herbe et descend dans la coupe : terre végétale, limon,
    argile, sable bruxellien. Les racines poussent.
 3. **L’eau** : les gouttes s’infiltrent jusqu’à la nappe.
@@ -29,6 +29,8 @@ saisons (aiguille sur la date du jour) et un formulaire de démonstration (rien 
 - `js/page.js` : chapitres, écran d’entrée, menu, plans, calendrier.
 - Animations complètes par défaut ; « Réduire les animations » en bas de page ou `?motion=reduce`.
 - `?intro=0` saute l’écran d’entrée ; `?qa=0..3` fige un chapitre pour les captures.
+- Photo du premier écran : « Autumn Joy » par Memotions (https://www.flickr.com/photos/77994098@N00/291632767),
+  licence CC BY 2.0, recadrée et compressée ; crédit en pied de page.
 - Polices Gloock, Hanken Grotesk, DM Mono (SIL OFL), Three.js et Lenis (MIT) : voir `licenses/`.
 
 Les sources (plans, calendrier, outils de capture) sont dans l’atelier de M&S Design ;
